@@ -13,7 +13,7 @@ It's easy to install this theme on your own mailspring client.
    and selecting the directory you just cloned.
 
 3. Once installed you can go `Mailspring > Change Theme...`
-   and selecting the Minimal Dark
+   and select the Minimal Dark.
 
 ## Done! What's next?
 
